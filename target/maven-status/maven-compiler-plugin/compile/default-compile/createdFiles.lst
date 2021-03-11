@@ -1,0 +1,7 @@
+ru\geekbrains\config\AppConfig.class
+ru\geekbrains\servlet\ProductRepositoryService.class
+ru\geekbrains\Application.class
+ru\geekbrains\controller\ConvertController.class
+ru\geekbrains\entity\Product.class
+ru\geekbrains\config\WebInitializer.class
+ru\geekbrains\controller\ProductRepositoryController.class
